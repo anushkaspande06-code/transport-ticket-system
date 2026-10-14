@@ -6,7 +6,7 @@ The Transport Ticket Booking System is a web-based project designed to help user
 ## UML Diagrams
 
 ### 1. Use Case Diagram
-![Use Case Diagram](use-case-diagram.png)
+![Use Case Diagram](../use-case-diagram.png)
 
 ### 2. Activity Diagram 1
 ![Activity Diagram 1](../Activity-diagram1.png)
